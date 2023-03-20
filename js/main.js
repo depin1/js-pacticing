@@ -301,16 +301,28 @@
 
 
 
-const arrAy = [, 2, 3, 4, 5, 6, 7, 8];
-let resolt2 = []
+// const arrAy = [, 2, 3, 4, 5, 6, 7, 8];
+// let resolt2 = []
 
-function resolt(arr, target) {
-    if (arr.indexOf(target) !== -1) {
-        resolt2.push(arr.indexOf(target))
-    } else {
-        resolt2.push()
-    }
-    return resolt2
+// function resolt(arr, target) {
+//     if (arr.indexOf(target) !== -1) {
+//         resolt2.push(arr.indexOf(target))
+//     } else {
+//         resolt2.push()
+//     }
+//     return resolt2
 
-}
-console.log(resolt(arrAy, 3));
+// }
+// console.log(resolt(arrAy, 3));
+
+
+
+// let number = 30;
+// let result = [];
+// for (let i = 0; i < number; i++) {
+//     if (30 % i == 0) {
+//         result.push(i)
+//     }
+
+// }
+// console.log(result);
